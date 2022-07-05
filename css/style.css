@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 body{
+    font-family: 'Montserrat', sans-serif;
     margin: 0;
     padding: 0;
     text-align: center;
@@ -53,4 +55,42 @@ h2{
     border: 2px solid #FF5959;
     background-color: #FFEEEE;
 }
+.dt-section{
+    width: auto;
+    padding: 100px 0;
+}
+.input-box{
+    border: none;
+}
+hr{width: 50%; margin-bottom: 30px; color: #707070;}
+/*Our Donate Plan section*/
+.b-box{
+    margin: 30px 10px;
+    padding: 50px 30px;
+    border-radius: 5px;
+    text-align: left;
+}
+.b-box p{
+    color: #000000;
+    font-size: 14px;
+}
+#p{background-color: #a0d4da; }
+#r{background-color: #f1c4c4;}
+#y{background-color: #FFF4D6;}
 
+
+/*footer section*/
+footer{
+    width: auto;
+    padding: 40px 0;
+    background-color: #0B0D17;
+}
+footer h2{
+    color: #FF5959;
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+}
+footer p{
+    color: #ffffff;
+    font-size: 14px; 
+}
