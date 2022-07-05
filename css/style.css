@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+p{
+    margin: 0;
+    font-size: 18px;
+    color: #707070;
+}
+h1{
+    margin: 0;
+    font-size: 65px;
+    color: #ffffff;
+}
+h2{
+    margin: 0;
+    font-size: 45px;
+    color: #121212;
+
+}
+.top-head{
+    width: auto;
+    padding: 200px 0;
+    background-image: url(../images/donation9.jpg);
+    background-size: cover;  
+}
+.top-head p{
+    color: #fff;
+    margin-bottom: 30px;
+}
+.button{
+    text-decoration: none;
+    padding: 10px 20px;
+    color: #fff;
+    background-color: #FF5959;
+    border-radius: 5px;
+}
+/* 2nd section */
+.flex-box{
+    display: flex;
+    align-items: center;  
+    justify-content: center;
+}
+.box{
+    margin: 30px 10px;
+    padding: 40px;
+    background-color: #FAFAFA;
+    border-radius: 5px;
+}
+#unique-box{
+    border: 2px solid #FF5959;
+    background-color: #FFEEEE;
+}
+
