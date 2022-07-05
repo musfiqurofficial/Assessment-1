@@ -13,12 +13,14 @@ p{
 }
 h1{
     margin: 0;
-    font-size: 65px;
+    font-size: 60px;
+    font-weight: 600;
     color: #ffffff;
 }
 h2{
-    margin: 0;
+    margin: 10px 0;
     font-size: 45px;
+    font-weight: 600;
     color: #121212;
 
 }
@@ -64,6 +66,10 @@ h2{
 }
 hr{width: 50%; margin-bottom: 30px; color: #707070;}
 /*Our Donate Plan section*/
+.odp-section{
+    width: auto;
+    padding: 50px 0;
+}
 .b-box{
     margin: 30px 10px;
     padding: 50px 30px;
