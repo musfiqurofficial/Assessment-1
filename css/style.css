@@ -24,6 +24,9 @@ h2{
     color: #121212;
 
 }
+.box-shadow{
+    box-shadow: 2px 4px 15px #888888;
+}
 .top-head{
     width: auto;
     padding: 200px 0;
@@ -85,8 +88,48 @@ hr{width: 50%; margin-bottom: 30px; color: #707070;}
 #p{background-color: #a0d4da; }
 #r{background-color: #f1c4c4;}
 #y{background-color: #FFF4D6;}
+/*Donate Process aria*/
+.donation-section{
+    width: auto;
+    padding: 80px 0;
+    display: flex;
+    align-items: center;  
+    justify-content: center;
+}
+.donation-section img{
+    width: 100%;
+}
+.sub-donate{
+    padding: 0 40px;
+    text-align: left;
+}
+.sub-donate h2{
+    margin-bottom: 50px;
+}
+/*Get My Updates*/
+.last-section{
+    width: auto;
+    padding: 100px 0;
+}
+.last-section p{
+    margin: 30px 0;
+}
+.sub-part{
+    margin: 0 auto;
+    padding: 70px 0;
+    width: 720px;
+    height: auto;
+    background-color: #FFF4D6;
+    border-radius: 10px;
 
-
+}
+.sub-part input{
+    margin: 0;
+    padding: 10px 25px;
+    border: 2px solid #FF5959;
+    border-radius: 5px;
+    background-color: #D9D9D9;
+}
 /*footer section*/
 footer{
     width: auto;
