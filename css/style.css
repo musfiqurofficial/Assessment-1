@@ -28,12 +28,14 @@ h2{
     width: auto;
     padding: 200px 0;
     background-image: url(../images/donation9.jpg);
-    background-size: cover;  
+    background-size: cover; 
+    
 }
 .top-head p{
     color: #fff;
     margin-bottom: 30px;
 }
+.t-color{color: #FF5959;}
 .button{
     text-decoration: none;
     padding: 10px 20px;
